@@ -1,0 +1,139 @@
+.logo{
+
+  margin: 15px;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+
+}
+.logo-heading{
+    font-family: fantasy;
+    font-size:large;
+    margin-top: 35px;
+    font-size: 60px;
+    margin-left: 5px;
+    color: white;
+
+
+}
+.bg{
+  background-color: black;
+  background-size: cover;
+  height: 120vh;
+}
+
+.headers{
+  margin-top: 15px;
+  margin-left: 15px;
+  font-family: "Roboto";
+  color: white;
+  padding: 15px;
+  padding-left: 30px;
+}
+.class-one{
+  margin-top: 65px;
+  margin-left: 15px;
+}
+.main-image{
+  padding-left: 200px;
+  height: 500px;
+  width: 700px;
+
+}
+.paragraph{
+  color: #FFFFFF;
+  font-family: serif;
+  font-size: 25px;
+  margin-left: 25px;
+}
+.image-two{
+ width: 60px;
+ height: 60px;
+ margin-top: 35px;
+ margin-left: 35px;
+ text-align: center;
+}
+.bg-one{
+  background-color: black;
+  background-size: cover;
+  height: 380vh;
+
+}
+.paragraph-one{
+  font-family: "Roboto";
+  margin-top: 37px;
+  font-size: 35px;
+  color: #FFFFFF;
+  margin-left: 190px;
+
+}
+.image-three{
+  margin: 15px;
+  width: 180px;
+  height: 180px;
+  text-align: center;
+
+}
+.heading-one{
+  font-family: "Roboto";
+  margin-left: 15px;
+  color: #FFFFFF;
+}
+.paragraph-two{
+  font-family: "Roboto";
+  margin-left: 15px;
+  color: #FFFFFF;
+}
+.bg-two{
+  background-color: black;
+  background-size: cover;
+  height: 230vh;
+  width:120vw;
+
+}
+.color{
+    color: #FFFFFF;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+.review{
+  height: 70px;
+  width: 70px;
+}
+.paragraph-five{
+  margin-top: 10px;
+}
+.bg-six{
+  background-color: black;
+  background-size: cover;
+  height: 400vh;
+  width: 100vw;
+}
+.tranding-movies{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  padding-top: 125px;
+}
+.carousel-item{
+  height: 400px;
+  width: 200px;
+  margin:  55px;
+}
+.d-block{
+  margin-left: 250px;
+}
+.salaar{
+  height: 400px;
+  width: 400px;
+  padding-top: 55px;
+  }
+  .termsandservices{
+    margin-top: 150px;
+  }
+.terms{
+  color: blue;
+  padding-left: 125px;
+  text-align: center;
+}
